@@ -1,1 +1,2 @@
-{"name":"ZaufanyID","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"appcenter":"5.0.1","appcenter-analytics":"5.0.1","appcenter-crashes":"5.0.1","react-native":"0.75.3","react-native-nfc-manager":"^3.16.0"}}
+{"name":"ZaufanyID","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},
+"dependencies":{"appcenter":"5.0.1","appcenter-analytics":"5.0.1","appcenter-crashes":"5.0.1","react-native":"0.75.3","react-native-nfc-manager":"^3.16.0"}}
